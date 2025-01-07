@@ -1,0 +1,58 @@
+# Landscape2 settings
+#
+# This settings file allows customizing some aspects of the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/settings.yml
+
+foundation: ecologie.taxi
+
+url: http://127.0.0.1:8000
+
+colors:
+  color1: "rgba(0, 107, 204, 1)"
+  color2: "rgba(255, 0, 170, 1)"
+  color3: "rgba(96, 149, 214, 1)"
+  color4: "rgba(0, 42, 81, 0.7)"
+  color5: "rgba(1, 107, 204, 0.7)"
+  color6: "rgba(0, 42, 81, 0.7)"
+  color7: "rgba(180, 219, 255, 1)"
+
+footer:
+  links: 
+    github: "https://github.com/rriclet/carte-ecologie"
+  text: N'hésitez pas à écrire à contact@ecologie.taxi pour signaler des erreurs, proposer des ajouts ou des suggestions d'amélioration :)
+
+grid_items_size: large
+
+groups: 
+  - name: par type de collectif
+    categories: 
+      - Collectifs
+      - Lieux
+      
+  - name: par région
+    categories: 
+      - National
+      - Auvergne-Rhône-Alpes
+      - Bourgogne-Franche-Comté
+      - Bretagne
+      - Centre-Val de Loire
+      - Corse
+      - Grand Est
+      - Hauts-de-France
+      - Île-de-France
+      - Normandie
+      - Nouvelle-Aquitaine
+      - Occitanie
+      - Outre-Mer
+      - Pays de la Loire
+      - Provence-Alpes-Côte d'Azur
+      - Monaco
+      - International
+
+header:
+  links:
+    github: "https://github.com/rriclet/carte-ecologie"
+  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+
+screenshot_width: 1500
