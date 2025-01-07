@@ -1,0 +1,61 @@
+# Landscape2 data
+#
+# This file contains the data that will be used to generate the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
+
+categories:
+  - name: Collectifs
+    subcategories:
+
+      - name: Associations
+        items: 
+          - name: Bassines Non Merci
+            homepage_url: https://www.bassinesnonmerci.fr/
+            logo: bassinesNonMerci.jpg
+            second_path: 
+             - "National / -"
+          - name: La Tête dans le sable
+            description: Des habitants de Saint Colomban et de la Communauté de Communes de Grand-Lieu (dans le sud de la loire atlantique), sensibles aux sujets liés à la protection de nos territoires, de notre environnement et d'une agriculture à taille humaine se mobilisent depuis plus d'un an.
+            homepage_url: https://latetedanslesable.fr/ 
+            logo: laTeteDansLeSable.jpeg
+            second_path: 
+             - "Pays de la Loire / Loire-Atlantique (44)"
+
+      - name: Groupes politiques
+        items: 
+          - name: Les Soulèvements de la Terre
+            description: Les Soulèvements de la terre, c'est la tentative de construire un réseau de luttes locales tout en impulsant un mouvement de résistance et de redistribution foncière à plus large échelle. C'est la volonté d'établir un véritable rapport de force en vue d'arracher la terre au ravage industriel et marchand.
+            homepage_url: https://lessoulevementsdelaterre.org/
+            logo: lesSoulèvementsDeLaTerre.png
+            second_path: 
+             - "National / -"
+          - name: Réseau de Ravitaillement des Luttes du Pays Rennais
+            description: On fait des cantines, du maraichage et des distributions alimentaires en soutien des luttes.
+            homepage_url: https://www.instagram.com/reseau_de_ravitaillement/
+            logo: r2r.jpeg
+            second_path: 
+             - "Bretagne / Ile-et-Vilaine (35)"
+            facebook: https://www.facebook.com/R2RPlatsEtResistances/?locale=fr_FR
+
+  - name: Lieux
+    subcategories:
+
+      - name: Communs
+        items: 
+          - name: Les Lentillères
+            description: Résistance à l'urbanisation, occupation autogérée, lieu de cultures et de solidarités, réserve de biodiversité… à Dijon depuis 2010
+            homepage_url: https://lentilleres.potager.org/ 
+            logo: lesLentilleres.png
+            second_path: 
+             - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+            facebook: https://www.facebook.com/photo/?fbid=160477616654887
+          - name: Les Vaîtes
+            description: Défendre et promouvoir les pratiques de jardinage et de maraîchage, individuelles et collectives, dans la zone du quartier des Vaîtes à Besançon.
+            homepage_url: https://www.facebook.com/jardinsdesvaites/
+            logo: lesVaites.png
+            second_path: 
+             - "Bourgogne-Franche-Comté / Doubs (25)"
+
+  - name: Auvergne-Rhône-Alpes
+    subcategories:
