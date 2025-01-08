@@ -57,5 +57,46 @@ categories:
             second_path: 
              - "Bourgogne-Franche-Comté / Doubs (25)"
 
+  - name: Médias
+    subcategories:
+
+      - name: Livres
+        items: 
+          - name: Ecologie sans transition
+            description: |
+              Devant l’ampleur planétaire du désastre, un nouveau mouvement écologiste a émergé au fil des marches pour le climat, des grèves de la jeunesse et des actions de désobéissance. 
+              Mais sa stratégie se réduit encore à adresser une demande de transition à de supposés décideurs.
+            homepage_url: https://www.editionsdivergences.com/livre/ecologie-sans-transition
+            logo: ecologieSansTransition.jpg
+
+          - name: Le ménage des champs
+            description: |
+              Xavier Noulhianne nous raconte sa vie d'éleveur de chèvres et de brebis à la manière d'un dissident russe pris dans les mailles du système bureaucratique. 
+              Pour comprendre la mise en ordre des champs, ce livre navigue entre récit de vie, théorie, histoire, et dessine les contours d'une critique sociale dont la portée dépasse celle du monde agricole
+            homepage_url: http://leseditionsduboutdelaville.com/index.php?id_product=1&controller=product
+            logo: leMenageDesChamps.jpg
+
+          - name: Premières secousses
+            description: |
+              Au fil des saisons, nous avons formé des cortèges bigarrés, muni·es de bêches, de mégaphones et de meuleuses, vêtu·es de bleus de travail et de combinaisons blanches, escorté·es par des oiseaux géants… 
+              Nous avons traversé les bocages et les plaines, arpenté les vallées industrielles et le bitume des usines - et même frôlé les cimes alpines. 
+              Nous nous soulevons pour défendre les terres et leurs usages communs. 
+              Contre les méga-bassines, les carrières de sable, les coulées de béton et les spéculateurs fonciers, nous voulons propager les gestes de blocage, d'occupation et de désarmement, pour démanteler les filières toxiques. 
+              Nous nous soulevons parce que nous n'attendons rien de ceux qui gouvernent le désastre. Nous nous soulevons parce que nous croyons en notre capacité d'agir.
+              Depuis des siècles, du nord au sud, des mouvements populaires se battent pour défendre une idée simple : la terre et l'eau appartiennent à tou·tes, ou peut-être à personne. Les Soulèvements de la terre n'inventent rien ou si peu. 
+              Ils renouent avec une conviction dont jamais nous n'aurions dû nous départir.
+            homepage_url: https://lafabrique.fr/premieres-secousses/
+            logo: premieresSecousses.jpg 
+
+          - name: Pommes de terre contre gratte-ciel
+            description: |
+              Plus la crise écologique s’aggrave, plus l’écologie devient une idéo­lo­gie domi­nante. 
+              Elle nous promet un monde « décar­boné » grâce au tout-électrique, au tout-numé­ri­que et au « nucléaire vert ». 
+              Mais capi­ta­lisme et écologie sont incom­pa­ti­bles. Le capi­ta­lisme repose sur l’exploi­ta­tion de pro­lé­tai­res dans des entre­pri­ses for­cées par la concur­rence d’accu­mu­ler plus de valeur que leurs riva­les. 
+              La quête inces­sante de pro­duc­ti­vité entraîne sur­pro­duc­tion, sur­consom­ma­tion… aux effets des­truc­teurs pour les pro­lé­tai­res, pour l’huma­nité et pour la pla­nète. 
+              Il n’y aura pas de « révo­lu­tion écologique » sans révo­lu­tion sociale qui rompt avec les rap­ports de classe.
+            homepage_url: https://entremonde.net/pommes-de-terre-contre-gratte-ciel
+            logo: pommesDeTerre.jpg 
+
   - name: Auvergne-Rhône-Alpes
     subcategories:
