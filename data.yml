@@ -14,25 +14,25 @@ categories:
             homepage_url: https://www.bassinesnonmerci.fr/
             logo: bassinesNonMerci.jpg
             second_path: 
-             - "National / -"
+              - "National / -"
           - name: France Nature Environnement
             description: Fondée en 1968, France Nature Environnement se bat pour la protection de la nature et de l'environnement. Reconnue d'utilité publique en 1976, France Nature Environnement est présumée satisfaire aux obligations du contrat d'engagement républicain. Une équipe fédérale, composée de près de 180 bénévoles et 45 salarié·es, s'y investit au quotidien.
             homepage_url: https://fne.asso.fr/associations-adherentes
             logo: franceNatureEnvironnement.svg
             second_path: 
-             - "National / -"
+              - "National / -"
           - name: Hameaux Légers
             description: Accompagner la création d'écohameaux accessibles financièrement, pour permettre à toutes et tous d'habiter de manière durable et solidaire.
             homepage_url: https://hameaux-legers.org/
             logo: hameauxLegers.png
             second_path: 
-             - "National / -"
+              - "National / -"
           - name: La Tête dans le sable
             description: Des habitants de Saint Colomban et de la Communauté de Communes de Grand-Lieu (dans le sud de la loire atlantique), sensibles aux sujets liés à la protection de nos territoires, de notre environnement et d'une agriculture à taille humaine se mobilisent depuis plus d'un an.
             homepage_url: https://latetedanslesable.fr/ 
             logo: laTeteDansLeSable.jpeg
             second_path: 
-             - "Pays de la Loire / Loire-Atlantique (44)"
+              - "Pays de la Loire / Loire-Atlantique (44)"
 
       - name: Groupes politiques
         items: 
@@ -41,19 +41,25 @@ categories:
             homepage_url: https://www.antitechresistance.org/
             logo: antiTechResistance.webp
             second_path: 
-             - "National / -"
+              - "National / -"
+          - name: Assemblée Anti-Industrielle Rennes
+            description: Cette page (non officielle) relaie les appels et les décisions de l'assemblée anti-industrielle de Rennes
+            homepage_url: https://www.instagram.com/assembleeantiindustriellerenne/
+            logo: assembleeAntiIndustrielleRennes.jpg
+            second_path:
+              - "Bretagne / Ile-et-Vilaine (35)"
           - name: Les Soulèvements de la Terre
             description: Les Soulèvements de la terre, c'est la tentative de construire un réseau de luttes locales tout en impulsant un mouvement de résistance et de redistribution foncière à plus large échelle. C'est la volonté d'établir un véritable rapport de force en vue d'arracher la terre au ravage industriel et marchand.
             homepage_url: https://lessoulevementsdelaterre.org/
             logo: lesSoulèvementsDeLaTerre.png
             second_path: 
-             - "National / -"
+              - "National / -"
           - name: Réseau de Ravitaillement des Luttes du Pays Rennais
             description: On fait des cantines, du maraichage et des distributions alimentaires en soutien des luttes.
             homepage_url: https://www.instagram.com/reseau_de_ravitaillement/
             logo: r2r.jpeg
             second_path: 
-             - "Bretagne / Ile-et-Vilaine (35)"
+              - "Bretagne / Ile-et-Vilaine (35)"
             facebook: https://www.facebook.com/R2RPlatsEtResistances/?locale=fr_FR
 
   - name: Lieux
@@ -66,14 +72,14 @@ categories:
             homepage_url: https://lentilleres.potager.org/ 
             logo: lesLentilleres.png
             second_path: 
-             - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
             facebook: https://www.facebook.com/photo/?fbid=160477616654887
           - name: Les Vaîtes
             description: Défendre et promouvoir les pratiques de jardinage et de maraîchage, individuelles et collectives, dans la zone du quartier des Vaîtes à Besançon.
             homepage_url: https://www.facebook.com/jardinsdesvaites/
             logo: lesVaites.png
             second_path: 
-             - "Bourgogne-Franche-Comté / Doubs (25)"
+              - "Bourgogne-Franche-Comté / Doubs (25)"
 
   - name: Médias
     subcategories:
