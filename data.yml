@@ -15,6 +15,18 @@ categories:
             logo: bassinesNonMerci.jpg
             second_path: 
              - "National / -"
+          - name: France Nature Environnement
+            description: Fondée en 1968, France Nature Environnement se bat pour la protection de la nature et de l'environnement. Reconnue d'utilité publique en 1976, France Nature Environnement est présumée satisfaire aux obligations du contrat d'engagement républicain. Une équipe fédérale, composée de près de 180 bénévoles et 45 salarié·es, s'y investit au quotidien.
+            homepage_url: https://fne.asso.fr/associations-adherentes
+            logo: franceNatureEnvironnement.svg
+            second_path: 
+             - "National / -"
+          - name: Hameaux Légers
+            description: Accompagner la création d'écohameaux accessibles financièrement, pour permettre à toutes et tous d'habiter de manière durable et solidaire.
+            homepage_url: https://hameaux-legers.org/
+            logo: hameauxLegers.png
+            second_path: 
+             - "National / -"
           - name: La Tête dans le sable
             description: Des habitants de Saint Colomban et de la Communauté de Communes de Grand-Lieu (dans le sud de la loire atlantique), sensibles aux sujets liés à la protection de nos territoires, de notre environnement et d'une agriculture à taille humaine se mobilisent depuis plus d'un an.
             homepage_url: https://latetedanslesable.fr/ 
@@ -24,6 +36,12 @@ categories:
 
       - name: Groupes politiques
         items: 
+          - name: Anti-Tech Résistance
+            description: Anti-Tech Resistance (ATR) est un mouvement révolutionnaire international qui a pour objectif de démanteler le système technologique pour stopper la dévastation du monde et empêcher l’extinction de l’espèce humaine.
+            homepage_url: https://www.antitechresistance.org/
+            logo: antiTechResistance.webp
+            second_path: 
+             - "National / -"
           - name: Les Soulèvements de la Terre
             description: Les Soulèvements de la terre, c'est la tentative de construire un réseau de luttes locales tout en impulsant un mouvement de résistance et de redistribution foncière à plus large échelle. C'est la volonté d'établir un véritable rapport de force en vue d'arracher la terre au ravage industriel et marchand.
             homepage_url: https://lessoulevementsdelaterre.org/
@@ -97,6 +115,13 @@ categories:
               Il n’y aura pas de « révo­lu­tion écologique » sans révo­lu­tion sociale qui rompt avec les rap­ports de classe.
             homepage_url: https://entremonde.net/pommes-de-terre-contre-gratte-ciel
             logo: pommesDeTerre.jpg 
+
+      - name: Sites web 
+        items: 
+          - name: Carte des luttes locales en France
+            homepage_url: https://lutteslocales.gogocarto.fr/
+            logo: luttesLocalesFr.png
+
 
   - name: Auvergne-Rhône-Alpes
     subcategories:
